@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 07 00:51:57 BRT 2022
+postgresql-9.1-901-1.jdbc4-sources.jar>central=
+postgresql-9.1-901-1.jdbc4.pom>central=
+postgresql-9.1-901-1.jdbc4.jar>central=

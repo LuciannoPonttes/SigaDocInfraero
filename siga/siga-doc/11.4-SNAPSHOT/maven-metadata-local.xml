@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>siga</groupId>
+  <artifactId>siga-doc</artifactId>
+  <versioning>
+    <lastUpdated>20240528215850</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11.4-SNAPSHOT</value>
+        <updated>20240528215850</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>11.4-SNAPSHOT</version>
+</metadata>

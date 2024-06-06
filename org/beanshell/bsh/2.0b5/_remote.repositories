@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 18:47:24 BRT 2024
+bsh-2.0b5.jar>JBoss\ Thirdparty\ Releases=
+bsh-2.0b5.pom>JBoss\ Thirdparty\ Releases=
+bsh-2.0b5-sources.jar>central=

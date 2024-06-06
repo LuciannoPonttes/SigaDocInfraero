@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 29 10:48:53 BRT 2024
+sigagc-1.2-SNAPSHOT.war>=
+sigagc-1.2-SNAPSHOT.pom>=

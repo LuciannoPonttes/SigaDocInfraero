@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 29 10:48:23 BRT 2024
+siga-dump-1.2-SNAPSHOT.jar>=
+siga-dump-1.2-SNAPSHOT.pom>=
+siga-dump-1.2-SNAPSHOT-onejar.jar>=

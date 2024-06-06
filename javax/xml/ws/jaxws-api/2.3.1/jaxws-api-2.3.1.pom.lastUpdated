@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 29 09:58:16 BRT 2024
+https\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1716987496828
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1716987496670
+https\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1716987496000
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://raw.githubusercontent.com/projeto-siga/siga-repo/master/repo/.error=
+https\://raw.githubusercontent.com/projeto-siga/siga-repo/master/repo/.lastUpdated=1716987495357
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1716987496461
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=

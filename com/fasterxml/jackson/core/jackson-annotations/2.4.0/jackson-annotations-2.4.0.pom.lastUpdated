@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 08 11:24:43 BRT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1667917483882
+http\://0.0.0.0/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-annotations\:pom\:2.4.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [jcenter (http\://jcenter.bintray.com, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1667917447935

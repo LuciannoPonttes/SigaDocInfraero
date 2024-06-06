@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 18:46:25 BRT 2024
+pdfbox-2.0.23-sources.jar>central=
+pdfbox-2.0.23.jar>central=
+pdfbox-2.0.23.pom>central=

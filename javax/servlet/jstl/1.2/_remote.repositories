@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 07 11:18:27 BRT 2022
+jstl-1.2-sources.jar>=
+jstl-1.2.pom>central=
+jstl-1.2-sources.jar>central=
+jstl-1.2.jar>central=
+jstl-1.2.jar>=

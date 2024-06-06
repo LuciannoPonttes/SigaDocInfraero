@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>revisao_api</groupId>
+  <artifactId>revisao_api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240415224228</lastUpdated>
+  </versioning>
+</metadata>

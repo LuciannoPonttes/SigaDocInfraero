@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 10 19:49:54 BRT 2024
+thymeleaf-layout-dialect-2.5.2-sources.jar>central=
+thymeleaf-layout-dialect-2.5.2.jar>central=
+thymeleaf-layout-dialect-2.5.2.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 18:42:23 BRT 2024
+common-2.35-sources.jar>central=
+common-2.35.jar>central=
+common-2.35.pom>central=

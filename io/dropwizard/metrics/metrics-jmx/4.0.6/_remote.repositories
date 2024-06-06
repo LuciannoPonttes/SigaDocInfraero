@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 18:45:40 BRT 2024
+metrics-jmx-4.0.6.jar>central=
+metrics-jmx-4.0.6.pom>central=
+metrics-jmx-4.0.6-sources.jar>central=

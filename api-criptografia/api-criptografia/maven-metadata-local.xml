@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>api-criptografia</groupId>
+  <artifactId>api-criptografia</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240419014256</lastUpdated>
+  </versioning>
+</metadata>

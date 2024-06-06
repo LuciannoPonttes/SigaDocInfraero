@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 18:45:12 BRT 2024
+aws-java-sdk-s3-1.12.322-sources.jar>central=
+aws-java-sdk-s3-1.12.322.jar>central=
+aws-java-sdk-s3-1.12.322.pom>central=
